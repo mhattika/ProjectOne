@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-16T12:25:20 IST" name="OneProject" finished-at="2020-12-16T12:25:44 IST" duration-ms="24482">
+    <groups>
+    </groups>
+    <test started-at="2020-12-16T12:25:20 IST" name="BankingApp test" finished-at="2020-12-16T12:25:44 IST" duration-ms="24482">
+      <class name="com.inetbanking.testCases.run1">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.inetbanking.testCases.run1@6be968ce]" started-at="2020-12-16T12:25:20 IST" name="setup" finished-at="2020-12-16T12:25:34 IST" duration-ms="13890" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:com.inetbanking.testCases.run1@6be968ce]" started-at="2020-12-16T12:25:34 IST" name="test1" finished-at="2020-12-16T12:25:44 IST" duration-ms="9651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.inetbanking.testCases.run1@6be968ce]" started-at="2020-12-16T12:25:44 IST" name="teardown" finished-at="2020-12-16T12:25:44 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.inetbanking.testCases.run1 -->
+    </test> <!-- BankingApp test -->
+  </suite> <!-- OneProject -->
+</testng-results>

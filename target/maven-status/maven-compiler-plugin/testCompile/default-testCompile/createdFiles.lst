@@ -1,0 +1,15 @@
+com\inetbanking\utilities\BasicExtentReport.class
+com\inetbanking\testCases\BaseClass.class
+com\inetbanking\testCases\LogIn_Test.class
+com\inetbanking\testCases\run1.class
+com\inetbanking\testCases\LoginTest.class
+com\inetbanking\utilities\Reporting.class
+com\inetbanking\testCases\LogInDDT.class
+com\inetbanking\testCases\Check.class
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\testCases\TestCase3.class
+com\inetbanking\utilities\XLUtils.class
+com\inetbanking\pageObjects\GUImap_LogInPage.class
+com\inetbanking\testCases\TestCase2.class
+com\inetbanking\utilities\Listeners.class
+com\inetbanking\utilities\ReadConfig.class
